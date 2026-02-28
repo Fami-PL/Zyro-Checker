@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+decompiled/
+.DS_Store
+*.log
