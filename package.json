@@ -1,8 +1,8 @@
 {
-  "name": "jar-checker",
+  "name": "zyro-checker",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Minecraft Mod Decompiler & Security Analyzer Tool with AI integrations.",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

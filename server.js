@@ -155,5 +155,5 @@ app.post('/api/decompile', upload.single('modFile'), (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Jar Checker backend is running at http://localhost:${port}`);
+    console.log(`Zyro-Checker backend is running at http://localhost:${port}`);
 });
